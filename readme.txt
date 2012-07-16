@@ -1,5 +1,5 @@
 === GhostWriter ===
-Contributors: peterwilsoncc
+Contributors: floatedesign
 Tags: authors, posts, pages,users,authors,
 Requires at least: 3.3.2
 Tested up to: 3.4.1
