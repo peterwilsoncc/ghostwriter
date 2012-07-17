@@ -5,6 +5,8 @@ Requires at least: 3.3.2
 Tested up to: 3.4.1
 Stable tag: 1.0
 
+Ghostwriter overrides WordPress’s author pages and feeds to emulate the full functionality provided to WordPress users.
+
 == Description ==
 
 Ghostwriter overrides WordPress’s author pages and feeds to emulate the full functionality provided to WordPress users. Ghostwriter was developed by Floate in Melbourne. Just north of the river.
