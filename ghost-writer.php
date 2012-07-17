@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Ghost Writer
-Description: Ghostwriter overrides WordPress’s author pages and feeds to emulate the full functionality provided to WordPress users. Ghostwriter was developed by Floate in Melbourne. Just north of the river.
+Description: Ghostwriter overrides WordPress’s author pages and feeds to emulate the full functionality provided to WordPress users.
 Version: 1.0
 Author: Floate Design Partners
 Author URI: http://floate.com.au/
