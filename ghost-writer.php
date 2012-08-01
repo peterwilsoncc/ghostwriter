@@ -119,7 +119,6 @@ Class FDP_GhostAuthors {
 		);
 		$ghost_author_args['supports'] = array(
 			'title',
-			'slug',
 			'thumbnail',
 			'excerpt'
 		);
