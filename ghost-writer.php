@@ -3,8 +3,8 @@
 Plugin Name: Ghost Writer
 Description: Ghostwriter overrides WordPress’s author pages and feeds to emulate the full functionality provided to WordPress users.
 Version: 1.0
-Author: Floate Design Partners
-Author URI: http://floate.com.au/
+Author: Peter Wilson (initial release by Floate Design Partners)
+Author URI: http://peterwilson.cc/
 
 */
 
